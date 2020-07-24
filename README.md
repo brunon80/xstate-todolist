@@ -3,6 +3,7 @@
 Projeto criado com a finalidade de estudar Xstate, entender maquinas de estado finito e sua aplicação com react.
 
 # Resultado
+[Visite o site Netlify](https://xstate-todolist.netlify.app/)
 
 ![Resultado](https://i.imgur.com/K13pIKq.png)
 
